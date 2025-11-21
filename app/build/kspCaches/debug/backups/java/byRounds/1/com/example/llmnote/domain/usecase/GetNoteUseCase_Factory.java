@@ -1,0 +1,43 @@
+package com.example.llmnote.domain.usecase;
+
+import com.example.llmnote.data.repository.NoteRepository;
+import dagger.internal.DaggerGenerated;
+import dagger.internal.Factory;
+import dagger.internal.QualifierMetadata;
+import dagger.internal.ScopeMetadata;
+import javax.annotation.processing.Generated;
+import javax.inject.Provider;
+
+@ScopeMetadata
+@QualifierMetadata
+@DaggerGenerated
+@Generated(
+    value = "dagger.internal.codegen.ComponentProcessor",
+    comments = "https://dagger.dev"
+)
+@SuppressWarnings({
+    "unchecked",
+    "rawtypes",
+    "KotlinInternal",
+    "KotlinInternalInJava"
+})
+public final class GetNoteUseCase_Factory implements Factory<GetNoteUseCase> {
+  private final Provider<NoteRepository> repositoryProvider;
+
+  public GetNoteUseCase_Factory(Provider<NoteRepository> repositoryProvider) {
+    this.repositoryProvider = repositoryProvider;
+  }
+
+  @Override
+  public GetNoteUseCase get() {
+    return newInstance(repositoryProvider.get());
+  }
+
+  public static GetNoteUseCase_Factory create(Provider<NoteRepository> repositoryProvider) {
+    return new GetNoteUseCase_Factory(repositoryProvider);
+  }
+
+  public static GetNoteUseCase newInstance(NoteRepository repository) {
+    return new GetNoteUseCase(repository);
+  }
+}

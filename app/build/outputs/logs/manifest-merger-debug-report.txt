@@ -1,0 +1,389 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/529a382470056c266e7e0cbfd4582b3c/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/e7e8c0b9b9d6ef1d2c8facd2c55a8c28/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c929a0d45b856de14ad9997b218049fa/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/b0f84d6f7335379829eb87a5bc2a1dc0/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a522dd528e6c6ec64db7dcda381c05e1/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/327608ccf9fd3ddbb4a0aa26911eda9c/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/365b46a7f88ee3c2bdb3639dea325d36/transformed/navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1e8c264dbe708bbb8f4a70d161f5f624/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.50] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7ec196078fa16fcb73dfc4b714b63403/transformed/hilt-android-2.50/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c3c106341d53decd727a4781eacf8c68/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/5920a5c2261779302b984d172fdc64da/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/38854a705153e97b0f7100d3b32ee7a0/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0fef9c9b6e515d9736d397d55f4d930e/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1b0a38589a67797c1f13dab09e102d85/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/de5f6cfa13a5ac3c46dabfd15f835d34/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/117ef7fbd2a94a2651a1972bb4d95853/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0aa8b36afbc300d1b54a9971bb8ec8f5/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c826991973624ef7d7b0cfce3942b033/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7bf697bd60a03433ffd4ed5c0d070359/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/cff39976dd7dee0eac0e4b6104d89207/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/677ddea3a85773749212e4449ea2742b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/66e259bceca3a611d338f957d9182598/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c87684f47ea13458d5cbb70bc80c055c/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/6af8e5772cd64adb4f1b1d880ed9d6ea/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0e286bc44765e9673a465e4347ce4e7f/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9c6ef06201b67f744334d1c4233c2db0/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/97eca887b1f4f547d77eb6b26898d4cd/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0933926f7e7a75a312ebaa3677e24e28/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9e2788deea51432ed2fa092d9c9f60ec/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/cbbfd75aedfd66de391f10addfa424da/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a46be9ea64d772298e1631b16131faf7/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ec7bd383144e1f042b0b67df47c2e34e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/530f968559effd900126a6ea090947a0/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/48191093e590fddbdecfdc2a3ff22cab/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/460661832b6fe1ccba46bef07196a92d/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/f1dfb274a05506eb3878a38492884c13/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/82de1fb7b1a25e0c0352b0796d28955c/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/622a1649521d5967eec5d5e4843493ea/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9fcf5387747829490da3417a4ce521d4/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/586ddb5f811e9c3bfea8ab223af44416/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/532689a8c22c0b211b65529abfa0df9a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/355703579766c1d31c960038a42f8a18/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0a81d0e416648552156146ac7d6a100d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/06f2ae418d2644ce61b2fb973af700ea/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7b754d4a68602c4d2ee0111d781e37ed/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/dc0dda1bc4533a7d59e354cc64028d4f/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/bfb15341f808bf0369978a3e44939156/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/3a5bb2036b2a13fd94922b5bbbf8b5db/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1a1153ca9e73a21f9bd752fd03e7c21a/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/3a648e6cde46203e5b8c647fe236dd5b/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/71e1e3c0426507347abeff0b108c4939/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/053930a2cf84b42f83594786c8347096/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/430033df6598fd24f5235b9e505eec19/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1d0b8bfe2abdbeedc1336dcf0835a2c4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/6dbdc20d1a20271654146525201aab58/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.50] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c230f8ab792f316365f9504588b68755/transformed/dagger-lint-aar-2.50/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/053930a2cf84b42f83594786c8347096/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/053930a2cf84b42f83594786c8347096/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:9:9-54
+	tools:targetApi
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:13:9-29
+	android:allowBackup
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:12:9-45
+	android:dataExtractionRules
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:8:9-65
+	android:name
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:6:9-35
+activity#com.example.llmnote.MainActivity
+ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/529a382470056c266e7e0cbfd4582b3c/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/529a382470056c266e7e0cbfd4582b3c/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/e7e8c0b9b9d6ef1d2c8facd2c55a8c28/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/e7e8c0b9b9d6ef1d2c8facd2c55a8c28/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c929a0d45b856de14ad9997b218049fa/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c929a0d45b856de14ad9997b218049fa/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/b0f84d6f7335379829eb87a5bc2a1dc0/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/b0f84d6f7335379829eb87a5bc2a1dc0/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a522dd528e6c6ec64db7dcda381c05e1/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a522dd528e6c6ec64db7dcda381c05e1/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/327608ccf9fd3ddbb4a0aa26911eda9c/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/327608ccf9fd3ddbb4a0aa26911eda9c/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/365b46a7f88ee3c2bdb3639dea325d36/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/365b46a7f88ee3c2bdb3639dea325d36/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1e8c264dbe708bbb8f4a70d161f5f624/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1e8c264dbe708bbb8f4a70d161f5f624/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.50] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7ec196078fa16fcb73dfc4b714b63403/transformed/hilt-android-2.50/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.50] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7ec196078fa16fcb73dfc4b714b63403/transformed/hilt-android-2.50/AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c3c106341d53decd727a4781eacf8c68/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c3c106341d53decd727a4781eacf8c68/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/5920a5c2261779302b984d172fdc64da/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/5920a5c2261779302b984d172fdc64da/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/38854a705153e97b0f7100d3b32ee7a0/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/38854a705153e97b0f7100d3b32ee7a0/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0fef9c9b6e515d9736d397d55f4d930e/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0fef9c9b6e515d9736d397d55f4d930e/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1b0a38589a67797c1f13dab09e102d85/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1b0a38589a67797c1f13dab09e102d85/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/de5f6cfa13a5ac3c46dabfd15f835d34/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/de5f6cfa13a5ac3c46dabfd15f835d34/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/117ef7fbd2a94a2651a1972bb4d95853/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/117ef7fbd2a94a2651a1972bb4d95853/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0aa8b36afbc300d1b54a9971bb8ec8f5/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0aa8b36afbc300d1b54a9971bb8ec8f5/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c826991973624ef7d7b0cfce3942b033/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c826991973624ef7d7b0cfce3942b033/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7bf697bd60a03433ffd4ed5c0d070359/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7bf697bd60a03433ffd4ed5c0d070359/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/cff39976dd7dee0eac0e4b6104d89207/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/cff39976dd7dee0eac0e4b6104d89207/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/677ddea3a85773749212e4449ea2742b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/677ddea3a85773749212e4449ea2742b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/66e259bceca3a611d338f957d9182598/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/66e259bceca3a611d338f957d9182598/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c87684f47ea13458d5cbb70bc80c055c/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c87684f47ea13458d5cbb70bc80c055c/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/6af8e5772cd64adb4f1b1d880ed9d6ea/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/6af8e5772cd64adb4f1b1d880ed9d6ea/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0e286bc44765e9673a465e4347ce4e7f/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0e286bc44765e9673a465e4347ce4e7f/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9c6ef06201b67f744334d1c4233c2db0/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9c6ef06201b67f744334d1c4233c2db0/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/97eca887b1f4f547d77eb6b26898d4cd/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/97eca887b1f4f547d77eb6b26898d4cd/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0933926f7e7a75a312ebaa3677e24e28/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0933926f7e7a75a312ebaa3677e24e28/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9e2788deea51432ed2fa092d9c9f60ec/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9e2788deea51432ed2fa092d9c9f60ec/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/cbbfd75aedfd66de391f10addfa424da/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/cbbfd75aedfd66de391f10addfa424da/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a46be9ea64d772298e1631b16131faf7/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a46be9ea64d772298e1631b16131faf7/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ec7bd383144e1f042b0b67df47c2e34e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ec7bd383144e1f042b0b67df47c2e34e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/530f968559effd900126a6ea090947a0/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/530f968559effd900126a6ea090947a0/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/48191093e590fddbdecfdc2a3ff22cab/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/48191093e590fddbdecfdc2a3ff22cab/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/460661832b6fe1ccba46bef07196a92d/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/460661832b6fe1ccba46bef07196a92d/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/f1dfb274a05506eb3878a38492884c13/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/f1dfb274a05506eb3878a38492884c13/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/82de1fb7b1a25e0c0352b0796d28955c/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/82de1fb7b1a25e0c0352b0796d28955c/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/622a1649521d5967eec5d5e4843493ea/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/622a1649521d5967eec5d5e4843493ea/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9fcf5387747829490da3417a4ce521d4/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/9fcf5387747829490da3417a4ce521d4/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/586ddb5f811e9c3bfea8ab223af44416/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/586ddb5f811e9c3bfea8ab223af44416/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/532689a8c22c0b211b65529abfa0df9a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/532689a8c22c0b211b65529abfa0df9a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/355703579766c1d31c960038a42f8a18/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/355703579766c1d31c960038a42f8a18/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0a81d0e416648552156146ac7d6a100d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/0a81d0e416648552156146ac7d6a100d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/06f2ae418d2644ce61b2fb973af700ea/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/06f2ae418d2644ce61b2fb973af700ea/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7b754d4a68602c4d2ee0111d781e37ed/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/7b754d4a68602c4d2ee0111d781e37ed/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/dc0dda1bc4533a7d59e354cc64028d4f/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/dc0dda1bc4533a7d59e354cc64028d4f/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/bfb15341f808bf0369978a3e44939156/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/bfb15341f808bf0369978a3e44939156/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/3a5bb2036b2a13fd94922b5bbbf8b5db/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/3a5bb2036b2a13fd94922b5bbbf8b5db/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1a1153ca9e73a21f9bd752fd03e7c21a/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1a1153ca9e73a21f9bd752fd03e7c21a/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/3a648e6cde46203e5b8c647fe236dd5b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/3a648e6cde46203e5b8c647fe236dd5b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/71e1e3c0426507347abeff0b108c4939/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/71e1e3c0426507347abeff0b108c4939/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/053930a2cf84b42f83594786c8347096/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/053930a2cf84b42f83594786c8347096/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/430033df6598fd24f5235b9e505eec19/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/430033df6598fd24f5235b9e505eec19/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1d0b8bfe2abdbeedc1336dcf0835a2c4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/1d0b8bfe2abdbeedc1336dcf0835a2c4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/6dbdc20d1a20271654146525201aab58/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/6dbdc20d1a20271654146525201aab58/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.50] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c230f8ab792f316365f9504588b68755/transformed/dagger-lint-aar-2.50/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.50] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c230f8ab792f316365f9504588b68755/transformed/dagger-lint-aar-2.50/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rakibulislam/Downloads/LLM-Note/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/c18255f31a7de4f4f17e62952e929a40/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/42370537bb8581b836acfe2a19aef8b2/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/be1702d0fdf7e38185149b88d0d9bf66/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/ca31a61b3102534722227479214a27a9/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/69eac9606b1cd84d6ca41a00a0d18ea5/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.llmnote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.llmnote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/34d9dea130b318cc922ff320c2ff0554/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/aa66abd4aa652eee4e76c686fd095b90/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
