@@ -20,7 +20,26 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    // Navigation will go here
+                    val navController = androidx.navigation.compose.rememberNavController()
+                    androidx.navigation.compose.NavHost(
+                        navController = navController,
+                        startDestination = com.example.llmnote.ui.navigation.Screen.NoteList.route
+                    ) {
+                        androidx.navigation.compose.composable(route = com.example.llmnote.ui.navigation.Screen.NoteList.route) {
+                            com.example.llmnote.ui.note_list.NoteListScreen(navController = navController)
+                        }
+                        androidx.navigation.compose.composable(
+                            route = com.example.llmnote.ui.navigation.Screen.NoteEdit.route,
+                            arguments = listOf(
+                                androidx.navigation.navArgument(name = "noteId") {
+                                    type = androidx.navigation.NavType.LongType
+                                    defaultValue = -1L
+                                }
+                            )
+                        ) {
+                            com.example.llmnote.ui.note_edit.NoteEditScreen(navController = navController)
+                        }
+                    }
                 }
             }
         }

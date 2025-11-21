@@ -3,6 +3,7 @@ package com.example.llmnote.ui.note_list
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.llmnote.data.local.entity.NoteEntity
+import com.example.llmnote.domain.usecase.AddNoteUseCase
 import com.example.llmnote.domain.usecase.DeleteNoteUseCase
 import com.example.llmnote.domain.usecase.GetNotesUseCase
 import com.example.llmnote.domain.usecase.SearchNotesUseCase
@@ -20,7 +21,8 @@ import javax.inject.Inject
 class NoteListViewModel @Inject constructor(
     private val getNotesUseCase: GetNotesUseCase,
     private val deleteNoteUseCase: DeleteNoteUseCase,
-    private val searchNotesUseCase: SearchNotesUseCase
+    private val searchNotesUseCase: SearchNotesUseCase,
+    private val addNoteUseCase: AddNoteUseCase
 ) : ViewModel() {
 
     private val _state = MutableStateFlow(NoteListState())
@@ -48,6 +50,11 @@ class NoteListViewModel @Inject constructor(
                     }.launchIn(this)
                 }
             }
+            is NoteListEvent.TogglePin -> {
+                viewModelScope.launch {
+                    addNoteUseCase(event.note.copy(isPinned = !event.note.isPinned))
+                }
+            }
         }
     }
 
@@ -66,4 +73,5 @@ data class NoteListState(
 sealed class NoteListEvent {
     data class DeleteNote(val note: NoteEntity) : NoteListEvent()
     data class OnSearchQueryChange(val query: String) : NoteListEvent()
+    data class TogglePin(val note: NoteEntity) : NoteListEvent()
 }

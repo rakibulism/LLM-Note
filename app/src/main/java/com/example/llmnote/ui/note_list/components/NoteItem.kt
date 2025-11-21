@@ -8,6 +8,8 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material.icons.filled.PushPin
+import androidx.compose.material.icons.outlined.PushPin
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
@@ -25,7 +27,8 @@ import com.example.llmnote.data.local.entity.NoteEntity
 fun NoteItem(
     note: NoteEntity,
     modifier: Modifier = Modifier,
-    onDeleteClick: () -> Unit
+    onDeleteClick: () -> Unit,
+    onPinClick: () -> Unit
 ) {
     Card(
         modifier = modifier,
@@ -56,6 +59,19 @@ fun NoteItem(
                     maxLines = 10,
                     overflow = TextOverflow.Ellipsis
                 )
+            }
+            Column(
+                modifier = Modifier.align(Alignment.TopEnd)
+            ) {
+                IconButton(
+                    onClick = onPinClick
+                ) {
+                    Icon(
+                        imageVector = if (note.isPinned) Icons.Default.PushPin else Icons.Outlined.PushPin,
+                        contentDescription = "Pin note",
+                        tint = if (note.isPinned) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant
+                    )
+                }
             }
             IconButton(
                 onClick = onDeleteClick,
