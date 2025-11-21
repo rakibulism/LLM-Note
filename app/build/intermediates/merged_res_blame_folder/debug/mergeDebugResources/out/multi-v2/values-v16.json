@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.llmnote.app-mergeDebugResources-57:/values-v16/values-v16.xml",
+            "outputFile": "com.example.llmnote.app-mergeDebugResources-58:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/620791960a0d8dd59557c59652b41c6b/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/rakibulislam/.gradle/caches/9.0-milestone-1/transforms/a29387bbae6bb84076ea9ba5401fde08/transformed/core-1.12.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
