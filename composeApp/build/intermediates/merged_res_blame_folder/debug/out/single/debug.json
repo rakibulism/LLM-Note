@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.llmnote.composeApp-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "com.example.llmnote.composeApp-androidMain-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.llmnote.composeApp-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.llmnote.composeApp-androidMain-61:/xml/data_extraction_rules.xml"
+    }
+]
