@@ -7,6 +7,11 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
+import androidx.navigation.NavType
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
+import androidx.navigation.navArgument
 import com.example.llmnote.ui.theme.LLMNoteTheme
 import dagger.hilt.android.AndroidEntryPoint
 
@@ -20,19 +25,19 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    val navController = androidx.navigation.compose.rememberNavController()
-                    androidx.navigation.compose.NavHost(
+                    val navController = rememberNavController()
+                    NavHost(
                         navController = navController,
                         startDestination = com.example.llmnote.ui.navigation.Screen.NoteList.route
                     ) {
-                        androidx.navigation.compose.composable(route = com.example.llmnote.ui.navigation.Screen.NoteList.route) {
+                        composable(route = com.example.llmnote.ui.navigation.Screen.NoteList.route) {
                             com.example.llmnote.ui.note_list.NoteListScreen(navController = navController)
                         }
-                        androidx.navigation.compose.composable(
+                        composable(
                             route = com.example.llmnote.ui.navigation.Screen.NoteEdit.route,
                             arguments = listOf(
-                                androidx.navigation.navArgument(name = "noteId") {
-                                    type = androidx.navigation.NavType.LongType
+                                navArgument(name = "noteId") {
+                                    type = NavType.LongType
                                     defaultValue = -1L
                                 }
                             )
